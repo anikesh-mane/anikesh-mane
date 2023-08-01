@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/anikesh-mane/anikesh-mane/blob/main/Data%20Science%20Banner.gif)]
+![MasterHead](https://github.com/anikesh-mane/anikesh-mane/blob/main/Data%20Science%20Banner.gif)
 
 <h1 align="center">Hi there👋, I'm Anikesh</h1>
 <h4 align="center">A passionate Data Scientist and Educator currently working in Infosys Ltd.</h4>
